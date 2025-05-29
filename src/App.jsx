@@ -14,8 +14,8 @@ function App() {
       {/* <Vibration/> */}
       {/* <LineFallDetectionDashboard /> */}
       {/* <SingleAxis/> */}
-      <TransformerPrediction />
-      {/* <TransformerService /> */}
+      {/* <TransformerPrediction /> */}
+      <TransformerService />
       {/* <JetEngineMonitor /> */}
     </>
   )
